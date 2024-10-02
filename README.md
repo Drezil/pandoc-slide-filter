@@ -1,3 +1,7 @@
+# DEPRECATION-WARNING
+
+Use Decker (https://github.com/decker-edu/decker) - it has all these things in there as well.
+
 # pandoc-slide-filter
 
 Collection of pandoc-filters for our reveal-js slides.
